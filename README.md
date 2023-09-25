@@ -1,2 +1,2 @@
-# html_resume
+# My Resume
 Just a resume based solely on HTML
